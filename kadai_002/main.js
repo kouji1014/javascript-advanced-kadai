@@ -70,7 +70,7 @@ const gameOver = id => {
     if (result == true) {
       window.location.reload();
     }
-  }, 1000);
+  }, 10000);
 };
 
 // カウントダウンタイマー
